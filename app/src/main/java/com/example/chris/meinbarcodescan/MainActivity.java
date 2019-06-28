@@ -46,6 +46,8 @@ public class MainActivity extends AppCompatActivity implements ZXingScannerView.
             }
         }
 
+        // Hello!!!!!!!!
+
 /*
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
